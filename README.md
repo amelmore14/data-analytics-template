@@ -1,2 +1,3 @@
 # data-analytics-template
-Starting template for data projects 
+
+Starting template for data projects
