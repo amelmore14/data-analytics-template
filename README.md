@@ -1,5 +1,11 @@
 ![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge)
 
+### Project Title
+
+---
+
+Data Analytics Project
+
 ### Provide Description of Project
 
 ---
@@ -21,3 +27,9 @@ Project is combining data from 2 sources. Scraping one source and downloading an
 
 - 2024-11-13 AE added new items
 - 2024-11-10 AE deleted old items
+
+### What did I learn?
+
+---
+
+Describe what you learned in a short paragraph as you go through the project.
